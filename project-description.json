@@ -1,0 +1,46 @@
+{
+    "name": "nlw-impulse-web",
+    "short_description": "Projeto de feedback de um web site desenvolvido no nlw return",
+    "description": "Projeto foi construido utilizando React, Typescript, Tailwind, Phospohor Icons, O intuito desse projeto  e quando o usuario estiver tendo algum tipo de erro, a pessoa que estive navegando pela pagina possa utilizar essa funcionalidade para enviar feedbacks",
+    
+    "link_preview": "https://nlw-impulse-q8u4o89cv-ganimedes96.vercel.app", 
+    
+    "techs": [
+      {
+        "name": "React.js",
+        "url": "https://reactjs.org"
+      },
+      {
+        "name":"Vite",
+        "url": "https://vitejs.dev"
+      },
+      {
+          "name":"Tailwind",
+          "url":"https://tailwindui.com"
+      },
+      
+      {
+        "name":"TypeScript",
+        "url":"https://www.typescriptlang.org"
+      },
+
+      {
+          "name":"Phosphoricons",
+          "url":"https://phosphoricons.com"
+      }
+      
+    ],
+    "videos":[
+        "https://raw.githubusercontent.com/ganimedes96/nlw-impulse-web/main/.github/feedbacks.mp4"
+    ],
+    "images": [
+     "https://raw.githubusercontent.com/ganimedes96/nlw-impulse-web/main/.github/image.jpg"
+    
+
+     
+       
+      
+    
+    ]
+    
+    }
